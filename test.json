@@ -1,0 +1,451 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "สามารถเลือกเมนูร้อน ได้ตามนี้เลยค่ะ"
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?cs=srgb&dl=art-blur-cappuccino-close-up-302899.jpg&fm=jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Hot Drinks",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Americano",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Americano",
+                    "text": "Americano"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "55 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Espresso",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Espresso",
+                    "text": "Espresso"
+                  },
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "60 บาท",
+                  "size": "md",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Cappuchino",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Cappuchino",
+                    "text": "Cappuchino"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "65 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Mocca",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Mocca",
+                    "text": "Mocca"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "65 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Coco",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Coco",
+                    "text": "Coco"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "70 บาท",
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "สามารถเลือกเมนูเย็น ได้ตามนี้เลยค่ะ"
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://images.pexels.com/photos/1162455/pexels-photo-1162455.jpeg?cs=srgb&dl=two-brown-liquid-on-glass-with-ice-1162455.jpg&fm=jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Cold Drinks",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Americano",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Americano",
+                    "text": "Americano"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "65 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Espresso",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Espresso",
+                    "text": "Espresso"
+                  },
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "70 บาท",
+                  "size": "md",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Cappuchino",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Cappuchino",
+                    "text": "Cappuchino"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "75 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Mocca",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Mocca",
+                    "text": "Mocca"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "75 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Coco",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Coco",
+                    "text": "Coco"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "80 บาท",
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "สามารถเลือกเมนูปั่น ได้ตามนี้เลยค่ะ"
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://images.pexels.com/photos/230588/pexels-photo-230588.jpeg?cs=srgb&dl=blur-cappuccino-chocolate-close-up-230588.jpg&fm=jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Frappe Drinks",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Americano",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Americano",
+                    "text": "Americano"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "75 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Espresso",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Espresso",
+                    "text": "Espresso"
+                  },
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "80 บาท",
+                  "size": "md",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Cappuchino",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Cappuchino",
+                    "text": "Cappuchino"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "85 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Mocca",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Mocca",
+                    "text": "Mocca"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "85 บาท",
+                  "align": "end"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Coco",
+                  "size": "lg",
+                  "weight": "bold",
+                  "action": {
+                    "type": "message",
+                    "label": "Coco",
+                    "text": "Coco"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "90 บาท",
+                  "align": "end"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

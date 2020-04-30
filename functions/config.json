@@ -1,0 +1,9 @@
+{
+    "lineMessagingApi":"https://api.line.me/v2/bot/message",
+    "lineHeaders":{
+        "Content-Type":"application/json",
+        "Authorization":"Bearer fCySSUTgjIvgp3e7TGwFI7t6TrHiNvyvkjLCrr1h3cCSeGE3q7nMj5MPwKd7fvtkNQ0S946wxIPKJj/ZVZc5vv9Kb/8toUWPFotGe+TNQ4COX6pFvEFKbnp+hjTPvp25bPZUxcF+l3UbO8Kooh9idwdB04t89/1O/w1cDnyilFU="
+    },
+    "databaseURL":"https://[coffeecafe3024.firebaseio.com]",
+    "notifyToken":"m9OOhTxKi7sA3NzwhWTyYMgiH5aLgTQOYTKoczVQYew"
+}
